@@ -8,5 +8,7 @@ public static void main(String[] args) {
 	obj1.addition(a, b);
 	sub obj2 = new sub();
 	obj2.substraction(a, b);
+	multiply obj3 = new multiply();
+	obj3.Multi(a, b);
 }
 }
